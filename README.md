@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abanyin 👋
 
-<!--
-**Pkay4u/PKAY4U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical experience in Governance, Risk and Compliance (GRC), IT Risk and IT Audit.
 
-Here are some ideas to get you started:
+## 🛡️ GRC Portfolio Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ISO 27001 Gap Assessment — Coming Soon
+- Cyber Risk Register — Coming Soon
+- Third-Party Vendor Risk Assessment — Coming Soon
+- Ghana Data Protection Gap Assessment — Coming Soon
+- User Access Review & Control Testing — Coming Soon
+
+## 🎯 Current Focus
+
+- Governance, Risk and Compliance (GRC)
+- IT Risk
+- IT Audit
+- ISO 27001
+- Risk Assessment
+- Data Protection
